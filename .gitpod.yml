@@ -1,0 +1,4 @@
+tasks:
+  - init: npm install
+    command: npm run server && npm run test
+    
